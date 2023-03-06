@@ -1,5 +1,5 @@
-# ELEC-374-Project
+# ELEC-374-Project:
 High-performance logic design for arithmetic circuits; memory system designs based on static and dynamic RAMs; computer bus protocols and standard I/O interfaces; mass storage devices; hardware description languages (VHDL, Verilog); fault testing, design for testability, built-in self-test, memory testing, and boundary¿scan architectures; asynchronous sequential circuit design; introduction to GPU architectures and GPU computing. The course is supplemented by a CPU design project that allows students to become proficient with Field Programmable Gate Array (FPGA) devices and associated CAD tools, as well as with GPU computing through nVidia CUDA or OpenCL languages.
 
-#Phase 1
+# Phase 1:
 Phase 1 of this project consists of the design and Functional Simulation of a part of the Mini SRC datapath. In this Phase, you will design the necessary logic and simulate the add, sub, mul, div, and, or, shr, shra, shl, ror, rol, neg, and not instructions. The “Select and Encode” logic, “CON FF” Logic, “Input/Output” ports, “Memory Subsystem” and load/store instructions,branch and jump instructions, as well as addi, andi, and ori instructions will be designed and simulated in Phase 2.
